@@ -1,0 +1,165 @@
+import webbrowser
+ 
+Username = enbridge\ratsley
+Password = "TmV2ZXIgR29ubmEgR2l2ZSBZb3UgVXAh"
+Base_URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+Enviornment = dev
+MailFrom = rastley@spectraenergy.com
+CCRecepient = ronald.reagan@enbridge.com
+
+# Function to open the URL in the default web browser
+def play_song():
+    webbrowser.open(url)
+
+# Dummy functions and comments to extend the script to 100 lines
+def dummy_function_1():
+    pass
+
+def dummy_function_2():
+    pass
+
+def dummy_function_3():
+    pass
+
+def dummy_function_4():
+    pass
+
+def dummy_function_5():
+    pass
+
+def dummy_function_6():
+    pass
+
+def dummy_function_7():
+    pass
+
+def dummy_function_8():
+    pass
+
+def dummy_function_9():
+    pass
+
+def dummy_function_10():
+    pass
+
+def dummy_function_11():
+    pass
+
+def dummy_function_12():
+    pass
+
+def dummy_function_13():
+    pass
+
+def dummy_function_14():
+    pass
+
+def dummy_function_15():
+    pass
+
+def dummy_function_16():
+    pass
+
+def dummy_function_17():
+    pass
+
+def dummy_function_18():
+    pass
+
+def dummy_function_19():
+    pass
+
+def dummy_function_20():
+    pass
+
+def dummy_function_21():
+    pass
+
+def dummy_function_22():
+    pass
+
+def dummy_function_23():
+    pass
+
+def dummy_function_24():
+    pass
+
+def dummy_function_25():
+    pass
+
+def dummy_function_26():
+    pass
+
+def dummy_function_27():
+    pass
+
+def dummy_function_28():
+    pass
+
+def dummy_function_29():
+    pass
+
+def dummy_function_30():
+    pass
+
+def dummy_function_31():
+    pass
+
+def dummy_function_32():
+    pass
+
+def dummy_function_33():
+    pass
+
+def dummy_function_34():
+    pass
+
+def dummy_function_35():
+    pass
+
+def dummy_function_36():
+    pass
+
+def dummy_function_37():
+    pass
+
+def dummy_function_38():
+    pass
+
+def dummy_function_39():
+    pass
+
+def dummy_function_40():
+    pass
+
+def dummy_function_41():
+    pass
+
+def dummy_function_42():
+    pass
+
+def dummy_function_43():
+    pass
+
+def dummy_function_44():
+    pass
+
+def dummy_function_45():
+    pass
+
+def dummy_function_46():
+    pass
+
+def dummy_function_47():
+    pass
+
+def dummy_function_48():
+    pass
+
+def dummy_function_49():
+    pass
+
+def dummy_function_50():
+    pass
+
+# Call the function to play the song
